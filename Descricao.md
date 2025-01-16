@@ -16,3 +16,6 @@ que eu consiga ser pago por isso que faço para ajudar minha família
 
 --> Sei criar jogos 2d em python, interfaces gráficas, web sites,software, tabelas de Excel, projetos básicos de arduino
 --> estou estudando atualmente Ip e classes Ip, privadas e públicas, Ipv4, Ipv6.
+
+meu gmail: gabri2012mi@gmail.com
+pix: (+55) 43 98422-1307
