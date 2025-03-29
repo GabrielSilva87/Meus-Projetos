@@ -1,0 +1,28 @@
+MeuServidorAvancado/
+│
+├── src/
+│   ├── main/
+│   │   ├── java/
+│   │   │   └── com/
+│   │   │       └── exemplo/
+│   │   │           └── meuservidor/
+│   │   │               ├── MeuServidorApplication.java
+│   │   │               ├── controller/
+│   │   │               │   └── TaskController.java
+│   │   │               ├── model/
+│   │   │               │   └── Task.java
+│   │   │               ├── repository/
+│   │   │               │   └── TaskRepository.java
+│   │   │               └── service/
+│   │   │                   └── TaskService.java
+│   │   └── resources/
+│   │       ├── application.properties
+│   │       └── static/
+│   │           └── index.html
+│   └── test/
+│       └── java/
+│           └── com/
+│               └── exemplo/
+│                   └── meuservidor/
+│                       └── MeuServidorApplicationTests.java
+└── pom.xml
